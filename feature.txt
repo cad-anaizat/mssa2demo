@@ -1,0 +1,12 @@
+Clone in VS
+  Source Control
+    Click on Three Dots->Clone
+Create a New Branch
+  Source Control
+    Click on Three Dots -> Branch New
+Create New File
+  Explorer
+    New File Icon
+Stage
+  Source Control
+    Click + Sign
